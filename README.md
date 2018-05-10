@@ -2,7 +2,7 @@
 Non-Maximum Suppression for Object Detection in Python
 
 # test
-![<div align=center></div>](https://github.com/bruceyang2012/nms_python/blob/master/images/Original_0.jpg) ![image](https://github.com/bruceyang2012/nms_python/blob/master/images/After_NMS_0.jpg)
+<div align=center>![image](https://github.com/bruceyang2012/nms_python/blob/master/images/Original_0.jpg) ![image](https://github.com/bruceyang2012/nms_python/blob/master/images/After_NMS_0.jpg)</div>
 
 ![image](https://github.com/bruceyang2012/nms_python/blob/master/images/Original_1.jpg) ![image](https://github.com/bruceyang2012/nms_python/blob/master/images/After_NMS_1.jpg)
 
